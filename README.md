@@ -31,6 +31,7 @@ Three Claude Code plugins covering the full Playwright testing lifecycle: scaffo
 #### [Tracking for Divi](https://wordpress.org/plugins/tracking-for-divi/) — WordPress Plugin
 Track Divi form submissions without any configuration. Pushes events to `dataLayer` (GTM) and `gtag` automatically — because Divi doesn't expose JS hooks out of the box.
 
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/tracking-for-divi?label=Stars&logo=github&logoColor=black&color=181717)](https://github.com/zizzfizzix/tracking-for-divi)
 [![WordPress Active Installs](https://img.shields.io/wordpress/plugin/installs/tracking-for-divi?label=Active%20Installs&logo=wordpress&logoColor=white&color=21759B)](https://wordpress.org/plugins/tracking-for-divi/)
 [![WordPress Rating](https://img.shields.io/wordpress/plugin/rating/tracking-for-divi?label=Rating&logo=wordpress&logoColor=white&color=21759B)](https://wordpress.org/plugins/tracking-for-divi/)
 [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/tracking-for-divi?label=Version&logo=wordpress&logoColor=white&color=21759B)](https://wordpress.org/plugins/tracking-for-divi/)
