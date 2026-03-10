@@ -21,12 +21,12 @@ Turn any web page into structured data in seconds. Intelligent XPath detection, 
 #### [mcp-server-bwt](https://github.com/zizzfizzix/mcp-server-bwt) — MCP Server
 Model Context Protocol server for Bing Webmaster Tools — lets Claude and other MCP clients interact with the BWT API to query crawl data, submit URLs, manage sitemaps, and surface SEO insights through natural language.
 
-[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/mcp-server-bwt?label=Stars&logo=github&logoColor=white&color=181717)](https://github.com/zizzfizzix/mcp-server-bwt)
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/mcp-server-bwt?label=Stars&logo=github&logoColor=black&color=181717)](https://github.com/zizzfizzix/mcp-server-bwt)
 
 #### [playwright-skill](https://github.com/zizzfizzix/playwright-skill) — Claude Code Plugins
 Three Claude Code plugins covering the full Playwright testing lifecycle: scaffold config, write CI-ready specs, and debug failing tests. Model-invoked — Claude autonomously runs and iterates until tests pass.
 
-[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/playwright-skill?label=Stars&logo=github&logoColor=white&color=181717)](https://github.com/zizzfizzix/playwright-skill)
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/playwright-skill?label=Stars&logo=github&logoColor=black&color=181717)](https://github.com/zizzfizzix/playwright-skill)
 
 #### [Tracking for Divi](https://wordpress.org/plugins/tracking-for-divi/) — WordPress Plugin
 Track Divi form submissions without any configuration. Pushes events to `dataLayer` (GTM) and `gtag` automatically — because Divi doesn't expose JS hooks out of the box.
@@ -38,12 +38,12 @@ Track Divi form submissions without any configuration. Pushes events to `dataLay
 #### [mcp-server-indexnow](https://github.com/zizzfizzix/mcp-server-indexnow) — MCP Server
 MCP server for submitting URLs to search engines via IndexNow for faster content discovery and indexing.
 
-[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/mcp-server-indexnow?label=Stars&logo=github&logoColor=white&color=181717)](https://github.com/zizzfizzix/mcp-server-indexnow)
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/mcp-server-indexnow?label=Stars&logo=github&logoColor=black&color=181717)](https://github.com/zizzfizzix/mcp-server-indexnow)
 
 #### [wp-post-upsert-webhooks](https://github.com/zizzfizzix/wp-post-upsert-webhooks) — WordPress Plugin
 Reliable webhook notifications when WordPress posts are created, updated, or change status — with retry strategies, idempotency, bearer token auth, and comprehensive logging.
 
-[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/wp-post-upsert-webhooks?label=Stars&logo=github&logoColor=white&color=181717)](https://github.com/zizzfizzix/wp-post-upsert-webhooks)
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/wp-post-upsert-webhooks?label=Stars&logo=github&logoColor=black&color=181717)](https://github.com/zizzfizzix/wp-post-upsert-webhooks)
 
 ---
 
