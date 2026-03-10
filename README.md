@@ -1,6 +1,6 @@
 ## Hey, I'm Kuba 👋
 
-**Senior Growth PM** — I combine engineering intuition with data-driven marketing to ship things that matter. Previously @ **Klarna** and **Allegro**. Based in 🇬🇧 London.
+**Senior Growth PM** — I combine engineering intuition with data-driven marketing to ship things that matter. Previously @ **Klarna** and **Allegro**.
 
 I tinker with AI-assisted coding, MCPs, and agents — and build tools focused on marketing and growth.
 
@@ -52,14 +52,5 @@ Reliable webhook notifications when WordPress posts are created, updated, or cha
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-
----
-
-### 📬 Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kubaserafinowski-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/kubaserafinowski)
-[![Website](https://img.shields.io/badge/Website-kuba.wtf-000000?logo=safari&logoColor=white)](https://kuba.wtf)
-[![Twitter/X](https://img.shields.io/badge/X-@kuba__wtf-000000?logo=x&logoColor=white)](https://twitter.com/kuba__wtf)
-[![Medium](https://img.shields.io/badge/Medium-@kuba.wtf-000000?logo=medium&logoColor=white)](https://medium.com/@kuba.wtf)
 
 ![Profile views](https://komarev.com/ghpvc/?username=zizzfizzix&color=blueviolet&style=flat)
