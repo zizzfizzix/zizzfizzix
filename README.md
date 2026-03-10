@@ -8,12 +8,13 @@ I tinker with AI-assisted coding, MCPs, and agents — and build tools focused o
 
 ### 🛠️ My Projects
 
-#### [Super Search Console](https://supersearchconsole.com/) — Unified SEO Dashboard
+#### [Super Search Console](https://www.supersearchconsole.com/) — Unified SEO Dashboard
 Search Console, Supercharged. Bulk URL submissions, crawl monitoring, sitemap management, and indexing insights — for Google Search Console and Bing Webmaster Tools in one unified dashboard.
 
 #### [Scrape Similar](https://scrapesimilar.com/) — Chrome Extension
 Turn any web page into structured data in seconds. Intelligent XPath detection, visual element highlighting, and one-click export to Google Sheets, Excel, or CSV. Built for marketers, SEO specialists, and data folks.
 
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/scrape-similar?label=Stars&logo=github&logoColor=black&color=181717)](https://github.com/zizzfizzix/scrape-similar)
 [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/bhgobenflkkhfcgkikejaaejenoddcmo?label=Chrome%20Users&logo=google-chrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/scrape-similar/bhgobenflkkhfcgkikejaaejenoddcmo)
 [![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/bhgobenflkkhfcgkikejaaejenoddcmo?label=Rating&logo=google-chrome&logoColor=white&color=34A853)](https://chromewebstore.google.com/detail/scrape-similar/bhgobenflkkhfcgkikejaaejenoddcmo)
 [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/bhgobenflkkhfcgkikejaaejenoddcmo?label=Version&logo=google-chrome&logoColor=white&color=FBBC05)](https://chromewebstore.google.com/detail/scrape-similar/bhgobenflkkhfcgkikejaaejenoddcmo)
