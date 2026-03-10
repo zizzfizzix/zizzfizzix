@@ -1,8 +1,8 @@
 ## Hey, I'm Kuba 👋
 
-**Senior Growth PM** — I combine engineering intuition with data-driven marketing to ship things that matter. Previously @ **Klarna** and **Allegro**, and former **CTO** of a software consultancy. Based in 🇬🇧 London.
+**Senior Growth PM** — I combine engineering intuition with data-driven marketing to ship things that matter. Previously @ **Klarna** and **Allegro**. Based in 🇬🇧 London.
 
-I tinker with AI-assisted coding, MCPs, and agents — and build tools at the intersection of SEO, web scraping, and WordPress.
+I tinker with AI-assisted coding, MCPs, and agents — and build tools focused on marketing and growth.
 
 ---
 
@@ -35,13 +35,15 @@ Track Divi form submissions without any configuration. Pushes events to `dataLay
 [![WordPress Rating](https://img.shields.io/wordpress/plugin/rating/tracking-for-divi?label=Rating&logo=wordpress&logoColor=white&color=21759B)](https://wordpress.org/plugins/tracking-for-divi/)
 [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/tracking-for-divi?label=Version&logo=wordpress&logoColor=white&color=21759B)](https://wordpress.org/plugins/tracking-for-divi/)
 
----
+#### [mcp-server-indexnow](https://github.com/zizzfizzix/mcp-server-indexnow) — MCP Server
+MCP server for submitting URLs to search engines via IndexNow for faster content discovery and indexing.
 
-### 🤖 More Open Source
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/mcp-server-indexnow?label=Stars&logo=github&logoColor=white&color=181717)](https://github.com/zizzfizzix/mcp-server-indexnow)
 
-- **[mcp-server-indexnow](https://github.com/zizzfizzix/mcp-server-indexnow)** — MCP server for submitting URLs to search engines via IndexNow for faster content discovery and indexing
-- **[mcp-gsc](https://github.com/zizzfizzix/mcp-gsc)** — Google Search Console insights with Claude AI — query analytics, URL inspection, and sitemap management through chat
-- **[wp-post-upsert-webhooks](https://github.com/zizzfizzix/wp-post-upsert-webhooks)** — WordPress plugin for reliable webhook notifications on post create, update, and status changes
+#### [wp-post-upsert-webhooks](https://github.com/zizzfizzix/wp-post-upsert-webhooks) — WordPress Plugin
+Reliable webhook notifications when WordPress posts are created, updated, or change status — with retry strategies, idempotency, bearer token auth, and comprehensive logging.
+
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/wp-post-upsert-webhooks?label=Stars&logo=github&logoColor=white&color=181717)](https://github.com/zizzfizzix/wp-post-upsert-webhooks)
 
 ---
 
