@@ -29,6 +29,16 @@ Three Claude Code plugins covering the full Playwright testing lifecycle: scaffo
 
 [![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/playwright-skill?label=Stars&logo=github&logoColor=black&color=181717)](https://github.com/zizzfizzix/playwright-skill)
 
+#### [claude-devcontainers](https://github.com/zizzfizzix/claude-devcontainers) — Dev Environment
+Baseline devcontainer configs for Claude Code. One-command installer adds a firewall-restricted dev environment with iptables allowlisting, transparent HTTPS proxy, and persistent Claude config across rebuilds. Templates for TypeScript, PHP, and research workloads.
+
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/claude-devcontainers?label=Stars&logo=github&logoColor=black&color=181717)](https://github.com/zizzfizzix/claude-devcontainers)
+
+#### [zsh-ai-plugin](https://github.com/zizzfizzix/zsh-ai-plugin) — oh-my-zsh Plugin
+Converts natural language into ready-to-run shell commands via Claude Code. Type `@ your request`, and the generated command lands in your zsh buffer for review before you press Enter.
+
+[![GitHub Stars](https://img.shields.io/github/stars/zizzfizzix/zsh-ai-plugin?label=Stars&logo=github&logoColor=black&color=181717)](https://github.com/zizzfizzix/zsh-ai-plugin)
+
 #### [Tracking for Divi](https://wordpress.org/plugins/tracking-for-divi/) — WordPress Plugin
 Track Divi form submissions without any configuration. Pushes events to `dataLayer` (GTM) and `gtag` automatically — because Divi doesn't expose JS hooks out of the box.
 
